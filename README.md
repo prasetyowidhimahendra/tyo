@@ -1,2 +1,2 @@
-# tyo
+# uts metode numerik
 uts metode numerik
